@@ -1,6 +1,6 @@
 # LevelUP
-This is a Markdown template for developing a business model using the Business Model Canvas.
-Add logo of the business here. Remove this description.
+
+![LevelUP](https://i.imgur.com/i8S7CDA.jpg)
 
 ## Summary of Business
 LevelUP is an education company with a focus on Information Technology. We bring up-to-date, and relevant course work to your computer no matter where you are in the world. Regardless of your current level of experience in the Information Technology fields LevelUP will have coursework and study material to further your personal and work related goals. With courses ranging from word processing to python, excel to Java, there is a way for everyone to LevelUP.
