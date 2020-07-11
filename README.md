@@ -1,9 +1,9 @@
-# Name of Business
+# LevelUP
 This is a Markdown template for developing a business model using the Business Model Canvas.
 Add logo of the business here. Remove this description.
 
 ## Summary of Business
-Add a description that is about the length of an evelvator pitch for the business.
+LevelUP is an education company with a focus on Information Technology. We bring up-to-date, and relevant course work to your computer no matter where you are in the world. Regardless of your current level of experience in the Information Technology fields LevelUP will have coursework and study material to further your personal and work related goals. With courses ranging from word processing to python, excel to Java, there is a way for everyone to LevelUP.
 
 ## Website of Business
 Add here a link to your website design.
@@ -81,8 +81,8 @@ Add a very brief summary of each section in this table and provide details in th
 
 ## Founders
 <!-- Team members -->
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
-* NAME, TITLE
+* Lee Buhrmann, Data Analytics Officer
+* Stephen George, Chief Technology Officer
+* Mark Kemnitz, Chief Security Officer
+* Uladzimir Lahvinovich, Chief Marketing Officer
+* Tommy Tucker, Chief Financial Officer
