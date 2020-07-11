@@ -85,7 +85,7 @@ Add a very brief summary of each section in this table and provide details in th
 
 ## Founders
 <!-- Team members -->
-* Lee Buhrmann, CDAO, Chief Data Analytics Officer
+* Lee Buhrmann, Chief Data Analytics Officer
 * Stephen George, Chief Technology Officer
 * Mark Kemnitz, Chief Security Officer
 * Uladzimir Lahvinovich, Chief Marketing Officer
