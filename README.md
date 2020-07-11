@@ -3,7 +3,9 @@
 ![LevelUP](https://i.imgur.com/i8S7CDA.jpg)
 
 ## Summary of Business
-LevelUP is an education company with a focus on Information Technology. We bring up-to-date, and relevant course work to your computer no matter where you are in the world. Regardless of your current level of experience in the Information Technology fields LevelUP will have coursework and study material to further your personal and work related goals. With courses ranging from word processing to python, excel to Java, there is a way for everyone to LevelUP.
+
+The future of online business in IT education will be determined, as with all IT market growth, by the simultaneous and interdependent developments in both its supply and demand. The key drivers to demand will include employer perception of online programs , as well as graduates’, and the fit with their needs, coincidentally with student access, experience, development, and return on invested time and capital. Internet learning is not just an application of technology to teaching, but a new business model for higher education. By approaching internet learning as a business model, educational policy makers can begin to appreciate the scope of the integrated technology and services required to run a successful IT online course.
+The strategic use of information technology  has been a fundamental issue for every business. Information technology can alter the basic nature of an industry.  LevelUP is an education company with a focus on Information Technology. We bring up-to-date, and relevant coursework to your computer no matter where you are in the world. Regardless of your current level of experience in the Information Technology fields, LevelUP will have coursework and study material to further your personal and work-related goals. With courses ranging from word processing to python, excel to Java, there is a way for everyone to LevelUP.
 
 ## Website of Business
 Add here a link to your website design.
