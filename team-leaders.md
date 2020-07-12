@@ -1,7 +1,7 @@
 # Team Leader
 
 * T0: Tommy Tucker
-* T1: (add name)
+* T1: Uladzimir Lahvinovich
 * T2: (add name)
 * T3: (add name)
 * T4: (add name)
