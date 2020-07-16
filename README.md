@@ -13,7 +13,6 @@ The strategic use of information technology  has been a fundamental issue for ev
 Add here a link to your website design.
 
 ## Business Model Canvas
-Add a very brief summary of each section in this table and provide details in the linked documents. Remove this description.
 
 <table>
   <tr>
@@ -32,12 +31,9 @@ Add a very brief summary of each section in this table and provide details in th
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
-      <p>What value do we deliver to the customer?<br>
-      Which one of our customer's problems are we helping to solve?<br>
-      What bundles of products and services are we offering to each Customer Segment?<br>
-      are different and <br>
-      worth paying <br>
-      attention</p>
+      <p>LevelUP introduces more popular IT online classes for an affordable price, with multiple platforms, and help students develop knowledge in IT area as a result become successful software engineers in different fields of business<br>
+      . LevelUp will introduce the most popular languages such as Java and C++ ,  Javascript, HTML, CSS along with Python, are increasing the most in popularity <br>
+      </p>
       <br><br><br><br><br>
     </td>
     <td>
