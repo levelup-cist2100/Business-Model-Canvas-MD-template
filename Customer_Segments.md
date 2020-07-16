@@ -8,4 +8,4 @@ Looking at our target consumer, we want to offer multiple affordable educational
 
 Works Cited
 
-Table A-2. Households by Total Money Income, Race, and Hispanic Origin of Householder: 1967 to 2018. Income and Poverty in the United States: 2018, United States Census Bureau, September 2019, https://www.census.gov/data/tables/2019/demo/income-poverty/p60-266.html.
+Table A-2. Households by Total Money Income, Race, and Hispanic Origin of Householder: 1967 to 2018. *Income and Poverty in the United States: 2018*, United States Census Bureau, September 2019, https://www.census.gov/data/tables/2019/demo/income-poverty/p60-266.html.
