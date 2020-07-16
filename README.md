@@ -43,7 +43,7 @@ Add here a link to your website design.
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>LevelUp is initially targeting residents of North America with a household income between $35,000 and $49,999 annually and is interested in learning more about the IT field.<br>
+      <p>LevelUp is initially targeting two distinct customer segments consisting of North American residents who have a household income between $35,000 and $49,999 annually. Students fall into one of two categories: programming language learner, or general Information Technology skill learner.<br>
       </p>
     </td>
   </tr>
