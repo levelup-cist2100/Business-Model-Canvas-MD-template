@@ -43,7 +43,7 @@ Add here a link to your website design.
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>Looking at our target consumer, we want to offer multiple affordable educational packages. The average person in this target demographic works a full-time job and doesn’t have time to attend in person classes. <br>
+      <p>LevelUp is initially targeting residents of North America with a household income between $35,000 and $49,999 annually and is interested in learning more about the IT field.<br>
       </p>
     </td>
   </tr>
