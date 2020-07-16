@@ -31,8 +31,8 @@ Add here a link to your website design.
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
-      <p>LevelUP introduces more popular IT online classes for an affordable price, with multiple platforms, and help students develop knowledge in IT area as a result become    successful software engineers in different fields of business<br>
-       LevelUp will introduce the most popular languages such as Java and C++ ,Javascript, HTML, CSS along with Python, are increasing the most in popularity <br>
+      <p>LevelUP introduces more popular IT online classes for an affordable price, with multiple platforms, and help students develop knowledge in IT area as a result become    successful software engineers in different fields of business.<br>
+       LevelUp will introduce the most popular languages such as Java and C++ ,Javascript, HTML, CSS along with Python, are increasing the most in popularity. <br>
       </p>
       <br><br><br><br><br>
     </td>
@@ -43,8 +43,8 @@ Add here a link to your website design.
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
-      <p>For whom are we creating value?<br>
-      Who are our most important customers?</p>
+      <p>Looking at our target consumer, we want to offer multiple affordable educational packages. The average person in this target demographic works a full-time job and doesn’t have time to attend in person classes. <br>
+      </p>
     </td>
   </tr>
   <tr>
