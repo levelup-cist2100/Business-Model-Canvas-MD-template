@@ -32,7 +32,7 @@ Add here a link to your website design.
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
       <p>LevelUP introduces more popular IT online classes for an affordable price, with multiple platforms, and help students develop knowledge in IT area as a result become    successful software engineers in different fields of business.<br>
-       LevelUp will introduce the most popular languages such as Java and C++ ,Javascript, HTML, CSS along with Python, are increasing the most in popularity. <br>
+       LevelUp will introduce the most popular languages such as Java and C++, Javascript, HTML, CSS along with Python, are increasing the most in popularity. <br>
       </p>
       <br><br><br><br><br>
     </td>
