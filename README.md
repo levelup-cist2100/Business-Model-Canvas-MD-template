@@ -56,9 +56,8 @@ Add here a link to your website design.
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
-      <p>Through which Channels do our Customer Segments want to be reached?<br>
-      How are our Channels integrated?
-      How are we integrated with customer routines?</p>
+      <p>Our main channel to reach potential customers will be social media sites like Facebook, Twitter, Instagram, Youtube, and more depending on the varing popularity of platforms. Given that those interested in IT related topics would be more tech savy, and more frequently use these social media sites, social media the best option.<br>
+     </p>
     </td>
   </tr>
   <tr>
