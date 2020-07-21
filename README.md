@@ -37,8 +37,8 @@ Add here a link to your website design.
     </td>
     <td>
       <b><a href="Customer_Relationships.md">Customer Relationships</a></b>
-      <p>What type of relationship does each of our Customer Segments expects us to establish and maintain with them?<br>
-      Which ones have we established?</p>
+      <p>Overall, we strive to achieve these 3 points: customer retention, loyalty, and satasfaction. To accomplish this, we plan to have staff members always ready and eager to assist customers with any issues they may have with live messaging on our website, as well as a loyalty program that incentivizes continuing with our service. The website will also provide opportunities for customers to fill surveys in order to determine which areas of our service need improvement.<br>
+     </p>
     </td>
     <td rowspan="2">
       <b><a href="Customer_Segments.md">Customer Segments</a></b>
