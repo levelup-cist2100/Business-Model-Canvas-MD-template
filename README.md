@@ -24,10 +24,8 @@ Add here a link to your website design.
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
-      <p>What Key Activities do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-      Customer Relationships?<br>
-      Revenue Streams?</p>
+      <p>The LevelUp digital platform is designed to provide the customer with a extremely reliable learning experience at a low cost. No matter where a student is located or whatever time of day it is, the materials will always be updated and accessable. All a student needs is a computerized device such as a computer or smart phone and a internet connection.<br>
+     </p>
     </td>
     <td rowspan="2" colspan="2">
       <b><a href="Value_Propositions.md">Value Propositions</a></b>
@@ -49,10 +47,8 @@ Add here a link to your website design.
   <tr>
     <td>
       <b><a href="Key_Resources.md">Key Resources</a></b>
-      <p>What Key Resources do our Value Propositions require?<br>
-      Our Distribution Channels?<br>
-        Customer Relationships?<br>
-        Revenue Streams?</p>
+      <p>LevelUp uses a variety of technological resources to help make learning easier, maintain and expand the business and keep costs down. The resourses required for our customers is essentially what they already have. All the customer needs is a computer device with an internet connection. Our hardware and software resourses will handle the rest.
+      </p>
     </td>
     <td>
       <b><a href="Channels.md">Channels</a></b>
