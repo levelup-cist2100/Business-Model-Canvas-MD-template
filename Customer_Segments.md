@@ -6,7 +6,7 @@ Household income is used as an identifier because North American residents who h
 
 The expected age of our target customer will be those between the ages of 18 and 40. This is because these are the ages that are most likely for a individual to either transition into an IT related field, or join an IT related field. Any age group past is highly unlikely to consider transitioning from their career paths, and therefore unlikely to pursue any IT educational resources.
 
-Given that our target customer will have $35,000 to $75,000 a year, the customer will likely not have the spare money or time to pay for a more standard education experience, such as a college education; this is especially problematic considering that college tuition rates can reach as high as $50,000 for a year of classes. Our product will provide our target customer segment a much cheaper alternative to a more formal education experience.
+Given that our target customer will have $35,000 to $75,000 a year, the customer will likely not have the spare money or time to pay for a more standard education experience, such as a college education; this is especially problematic considering that college tuition rates can reach as high as $50,000 for a year of classes. Our product will provide our target customer segment a much cheaper alternative to a more formal education experience while still offering a high quality education.
 
 Works Cited
 
