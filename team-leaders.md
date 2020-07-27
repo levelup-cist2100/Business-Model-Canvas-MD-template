@@ -4,6 +4,6 @@
 * T1: Uladzimir Lahvinovich
 * T2: Stephen George
 * T3: Mark Kemnitz
-* T4: (add name)
+* T4: Lee Buhrmann
 * T5: (add name)
 * T6: (add name)
