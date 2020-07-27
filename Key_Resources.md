@@ -8,11 +8,11 @@ LevelUp’s physical assets will include all necessary hardware to host the Leve
 
 Intellectual Properties
 
-       The vast majority of LevelUp’s assets consist of intellectual properties. This includes our in-house designed web platform for providing service to our customers and all of LevelUp’s self-generated coursework and learning materials. In addition to the materials that will be provided to our students, our intellectual property will include all branded materials, from the web domain bearing our name to our registered trademarks in North America.
+The vast majority of LevelUp’s assets consist of intellectual properties. This includes our in-house designed web platform for providing service to our customers and all of LevelUp’s self-generated coursework and learning materials. In addition to the materials that will be provided to our students, our intellectual property will include all branded materials, from the web domain bearing our name to our registered trademarks in North America.
 		
 Human Capital
 
-       LevelUp will require human capital across a wide range of fields and expertises. The human capital falls into 4 categories, each requiring a different set of skills, though personnel can overlap into multiple categories depending on their individual skill sets. The 4 categories are: education specialists, technical support, financial staff, and the management team.
+LevelUp will require human capital across a wide range of fields and expertises. The human capital falls into 4 categories, each requiring a different set of skills, though personnel can overlap into multiple categories depending on their individual skill sets. The 4 categories are: education specialists, technical support, financial staff, and the management team.
 		
 Education specialists will fill the role of content development, tutoring, and student advising. Those with a role in this category must also be fluent in all areas of our coursework, this makes them prime for overlapping into the technical support staff area of our business during LevelUp’s establishment as an online educator.
 		
