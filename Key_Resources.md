@@ -10,7 +10,7 @@ LevelUp’s physical assets will include all necessary hardware to host the Leve
 
 The vast majority of LevelUp’s assets consist of intellectual properties. This includes our in-house designed web platform for providing service to our customers and all of LevelUp’s self-generated coursework and learning materials. In addition to the materials that will be provided to our students, our intellectual property will include all branded materials, from the web domain bearing our name to our registered trademarks in North America.
 
-LevelUp will make use of subscription services to G Suite as an office productivite suite. Although LevelUp's intellectual property will be stored and hosted locally, materials, will be backed up remotely on cloud space leased from Amazon Web Services (AWS).
+LevelUp will make use of subscription services from G Suite as an office productivite suite. And, although LevelUp's intellectual property will be stored and hosted locally, materials will be backed up remotely on cloud space leased from Amazon Web Services (AWS).
 		
 ### Human Capital
 
