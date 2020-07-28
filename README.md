@@ -11,6 +11,8 @@ The strategic use of information technology  has been a fundamental issue for ev
 
 ## Website of Business
 
+Below is a mockup of LevelUp's Web Platform
+
 <a href="https://ibb.co/MZhv267"><img src="https://i.ibb.co/MZhv267/001-Homepage-Top.png" alt="001-Homepage-Top" border="0"></a> <a href="https://ibb.co/Y21zGLJ"><img src="https://i.ibb.co/Y21zGLJ/002-Homepage-Middle.png" alt="002-Homepage-Middle" border="0"></a> <a href="https://ibb.co/PhdfNVJ"><img src="https://i.ibb.co/PhdfNVJ/003-Homepage-Bottom.png" alt="003-Homepage-Bottom" border="0"></a> <a href="https://ibb.co/R2VgCRg"><img src="https://i.ibb.co/R2VgCRg/004-Subscription-Page.png" alt="004-Subscription-Page" border="0"></a> <a href="https://ibb.co/phK3s9P"><img src="https://i.ibb.co/phK3s9P/005-Course-Page.png" alt="005-Course-Page" border="0"></a> <a href="https://ibb.co/C6RRyXh"><img src="https://i.ibb.co/C6RRyXh/006-About-Page.png" alt="006-About-Page" border="0"></a>
 
 ## Business Model Canvas
