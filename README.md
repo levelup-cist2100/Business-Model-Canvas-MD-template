@@ -21,9 +21,8 @@ Below is a mockup of LevelUp's Web Platform
   <tr>
     <td rowspan="2">
       <b><a href="Key_Partners.md">Key Partners</a></b>
-      <p>Who are our Key Partners?<br>
-      Who are our key suppliers?<br>
-      Which Key Activities do partners perform?</p>
+      <p>
+        LevelUp has a number of buyer-supplier key partners which will be instrumental in laying the initial groundwork for the LevelUp's Web Platform and catalog of Information Technology courses.
     </td>
     <td>
       <b><a href="Key_Activities.md">Key Activities</a></b>
