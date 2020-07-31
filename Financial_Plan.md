@@ -16,7 +16,7 @@
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 | Number of Customers | 0 | 1500 | 3000 | 4000 |
-| Monthly Subscription Service | 0 | $20 / month | $20 / month | $20 / month |
+| Subscription Service | 0 | $20 / month | $20 / month | $20 / month |
 | | | | | |
 | TOTAL REVENUE | 0 | $360,000 | $720,000 | $960,000 |
 | | | | | |
