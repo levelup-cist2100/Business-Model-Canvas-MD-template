@@ -5,7 +5,7 @@
 |---|---|---|---|---|
 | Website Creation (ref 1) | $9,000 | - | - | - |
 | Website Maintenance (ref 1) | - | $6,000 | $6,000 | $6,000 |
-| Equipment | $15,200 | $2,000 | $2,000 | $2,000 |
+| Equipment (ref 11, 12, 13) | $15,200 | $2,000 | $2,000 | $2,000 |
 | Office Lease / Furnishing | $10,000 | $36,000 | $36,000 | $36,000 |
 | Utilities (ref 4, 5, 6) | $500 | $7200 | $7200 | $7200 |
 | Marketing Services (ref 7) | - | $75,000 | $75,000 | $75,000 |
@@ -47,4 +47,4 @@
 (5) Marketing Services were estimated by estimating a $60,000 salary for a marketing director and $15,000 in captial for using in SEO and Paid Advertising.<br>
 (6) Content Creation is the largest initial expense. The assumptions are based on hiring 6 independent contractors to assist in content creation, one for each of our initial courses, at a cost of $40,000 / year based on estimates from reference 7.<br>
 (7) Payroll and Accounting is estimated using refereces 9 and 10. A salary of $49,000 / year for an accountant and a cost of $42,000 / year in payroll services.
-(8) Equipment costs are estimated by references ... Assumptions were that 10 business class laptops were needed at $1,000 per. Cost of purchasing a server and rack are estimated at $2,500. Costs of ancillary equipment: Modem $300, Professional Microphone $400, Miscellanious equipment cost $2,000 (both initially and annually).
+(8) Equipment costs are estimated by references 11, 12, 13. Assumptions were that 10 business class laptops were needed at $1,000 per. Cost of purchasing a server and rack are estimated at $2,500. Costs of ancillary equipment: Modem $300, Professional Microphone $400, Miscellanious equipment cost $2,000 (both initially and annually).
