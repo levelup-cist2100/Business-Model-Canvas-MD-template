@@ -66,9 +66,8 @@ Below is a mockup of LevelUp's Web Platform
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
-      <p>For what value are customers willing to pay? <br>
-      How would they prefer to pay? <br>
-      What is the revenue structure?</p>
+      <p>LevelUp’s customer base is looking to gain knowledge in Information Technology, and they want to learn efficiently, retain the knowledge, and enjoy the experience. The value that is being provided to these customers is just that, access to top-of-the-line Information Technology Courses, presented on an easy to use platform making learning enjoyable. As LevelUp’s business is 100% digital, the customer base will expect to be able to pay their reoccurring charges electronically. These charges will be deducted monthly at a rate of $20 / month.
+      </p>
     </td>
   </tr>
 </table>
