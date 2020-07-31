@@ -3,8 +3,8 @@
 
 | Costs | Startup | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|---|
-| Website Creation | $3,000 | - | - | - |
-| Website Maintenance | - | $20,000 | $20,000 | $20,000 |
+| Website Creation (ref 1) | $9,000 | - | - | - |
+| Website Maintenance (ref 1) | - | $6,000 | $6,000 | $6,000 |
 | Equipment | $3,300 | - | - | - |
 | Office Lease / Furnishing | $10,000 | $45,000 | $45,000 | $45,000 |
 | Utilities | $500 | $7200 | $7200 | $7200 |
@@ -22,5 +22,10 @@
 | | | | | |
 | TOTAL PROFIT | $$$ | $$$ | $$$ | $$$ |
 
+### References
 
-Please document your assumptions of how you arrived at the dollar estimates.
+(1) Matt. "How Much Does a Business Website Cost in 2020? Here's What to Expect." *digital*, digital.com/how-to-create-a-website/how-much-does-website-cost/.
+(2)
+
+### Notes on Cost Estimates
+Website Creation and Maintenance costs were taken from reference 1, $9,000 for initial development and up to $500 / month in maintenance costs.
