@@ -24,12 +24,13 @@
 
 ### References
 
-(1) Matt. "How Much Does a Business Website Cost in 2020? Here's What to Expect." *digital*, digital.com/how-to-create-a-website/how-much-does-website-cost/.
-(2) HOLD FOR EQUIPMENT COSTS
-(3) "1413 South Washington Street, Papillion, NE 68046." *CREXi*, https://www.crexi.com/lease/properties/107699/nebraska-1413-south-washington-street
+(1) Matt. "How Much Does a Business Website Cost in 2020? Here's What to Expect." *digital*, www.digital.com/how-to-create-a-website/how-much-does-website-cost/.<br>
+(2) HOLD FOR EQUIPMENT COSTS<br>
+(3) "1413 South Washington Street, Papillion, NE 68046." *CREXi*, www.crexi.com/lease/properties/107699/nebraska-1413-south-washington-street/.<br>
 
 ### Notes on Cost Estimates
-(1) Website Creation and Maintenance costs were taken from reference 1, $9,000 for initial development and up to $500 / month in maintenance costs.
-(2) HOLD FOR EQUIPMENT COSTS
-(3) Office Lease and Furnishings was estemated with assumptions of $12 / sqft and 3,000 feet of office space. Additionally, $10,000 was alotted for purchasing of furniture and finished of the office space. An example property can be found at reference 3.
+
+(1) Website Creation and Maintenance costs were taken from reference 1, $9,000 for initial development and up to $500 / month in maintenance costs.<br>
+(2) HOLD FOR EQUIPMENT COSTS<br>
+(3) Office Lease and Furnishings was estemated with assumptions of $12 / sqft and 3,000 feet of office space. Additionally, $10,000 was alotted for purchasing of furniture and finished of the office space. An example property can be found at reference 3.<br>
 (4)
