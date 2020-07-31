@@ -12,7 +12,7 @@
 | Content Creation (ref 8) | - | $240,000 | $240,000 | $240,000 |
 | Payroll and Accounting (ref 9, 10) | - | $91,000 | $91,000 | $91,000 |
 | | | | | |
-|TOTAL COST | $$$ | $$$ | $$$ | $$$ |
+|TOTAL COST | $34,700 | $457,200 |$457,200 |$457,200 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 0 | x | x | x |
