@@ -5,7 +5,7 @@
 |---|---|---|---|---|
 | Website Creation (ref 1) | $9,000 | - | - | - |
 | Website Maintenance (ref 1) | - | $6,000 | $6,000 | $6,000 |
-| Equipment | $3,300 | - | - | - |
+| Equipment | $15,200 | $2,000 | $2,000 | $2,000 |
 | Office Lease / Furnishing | $10,000 | $36,000 | $36,000 | $36,000 |
 | Utilities (ref 4, 5, 6) | $500 | $7200 | $7200 | $7200 |
 | Marketing Services (ref 7) | - | $75,000 | $75,000 | $75,000 |
@@ -35,6 +35,8 @@
 (9) "Accountant Salaries in Omaha, NE Area." *glassdoor*, www.glassdoor.com/Salaries/omaha-accountant-salary-SRCH_IL.0,5_IM640_KO6,16.htm.<br>
 (10) "The True Cost of Payroll Services." *Paycor*, www.paycor.com/resource-center/cost-of-payroll-services.<br>
 (11) "ThinkPad." *Lenovo*, www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/c/thinkpadx?IPromoID=LEN921335#compareSection.<br>
+(12) Lahn, Mark "How Much Does a Server Cost for a Small Business?" *ServerMania*, www.servermania.com/kb/articles/how-much-does-a-server-cost-for-a-small-business/.<br>
+(13) "SURFboard SBG8300 DOCSIS 3.1 Wireless Cable Modem with AC2350 WIFI." *ARRIS*, shop.surfboard.com/surfboard-sbg8300-docsis-3-1-wireless-cable-modem-with-ac2350-wifi/.<br>
 
 ### Notes on Cost Estimates
 
@@ -45,4 +47,4 @@
 (5) Marketing Services were estimated by estimating a $60,000 salary for a marketing director and $15,000 in captial for using in SEO and Paid Advertising.<br>
 (6) Content Creation is the largest initial expense. The assumptions are based on hiring 6 independent contractors to assist in content creation, one for each of our initial courses, at a cost of $40,000 / year based on estimates from reference 7.<br>
 (7) Payroll and Accounting is estimated using refereces 9 and 10. A salary of $49,000 / year for an accountant and a cost of $42,000 / year in payroll services.
-(8) Equipment costs are estimated by references ... Assumptions were that 10 business class laptops were needed at $1,000 per. 
+(8) Equipment costs are estimated by references ... Assumptions were that 10 business class laptops were needed at $1,000 per. Cost of purchasing a server and rack are estimated at $2,500. Costs of ancillary equipment: Modem $300, Professional Microphone $400, Miscellanious equipment cost $2,000 (both initially and annually).
