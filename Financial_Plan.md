@@ -9,10 +9,10 @@
 | Office Lease / Furnishing | $10,000 | $36,000 | $36,000 | $36,000 |
 | Utilities (ref 4, 5, 6) | $500 | $7200 | $7200 | $7200 |
 | Marketing Services (ref 7) | - | $75,000 | $75,000 | $75,000 |
-| Content Creation (ref 8) | - | $240,000 | $240,000 | $240,000 |
+| Content Creation (ref 8) | - | $240,000 | $160,000 | $80,000 |
 | Payroll and Accounting (ref 9, 10) | - | $91,000 | $91,000 | $91,000 |
 | | | | | |
-|TOTAL COST | $34,700 | $457,200 |$457,200 |$457,200 |
+|TOTAL COST | $34,700 | $457,200 |$377,200 |$297,200 |
 | | | | | |
 | **Revenue** |Startup | Year 1 | Year 2 | Year 3 |
 |Number of Customers | 0 | x | x | x |
@@ -45,6 +45,6 @@
 (3) Office Lease and Furnishings was estemated with assumptions of $12 / sqft and 3,000 feet of office space. Additionally, $10,000 was alotted for purchasing of furniture and finished of the office space. An example property can be found at reference 3.<br>
 (4) Utility costs were estimated using references 4, 5, and 6. The assumptions were: electricity $200 / month, water and sewer $150 / month, internet $200 / month, insurance $50 / month, and that trash service was included in the cost of the office space.<br>
 (5) Marketing Services were estimated by estimating a $60,000 salary for a marketing director and $15,000 in captial for using in SEO and Paid Advertising.<br>
-(6) Content Creation is the largest initial expense. The assumptions are based on hiring 6 independent contractors to assist in content creation, one for each of our initial courses, at a cost of $40,000 / year based on estimates from reference 7.<br>
+(6) Content Creation is the largest initial expense. The assumptions are based on hiring 6 independent contractors to assist in content creation, one for each of our initial courses, at a cost of $40,000 / year based on estimates from reference 7. The number of personnel in this category will lower by 2 annually as content is refined and completed.<br>
 (7) Payroll and Accounting is estimated using refereces 9 and 10. A salary of $49,000 / year for an accountant and a cost of $42,000 / year in payroll services.
 (8) Equipment costs are estimated by references 11, 12, 13. Assumptions were that 10 business class laptops were needed at $1,000 per. Cost of purchasing a server and rack are estimated at $2,500. Costs of ancillary equipment: Modem $300, Professional Microphone $400, Miscellanious equipment cost $2,000 (both initially and annually).
