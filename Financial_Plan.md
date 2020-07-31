@@ -8,9 +8,9 @@
 | Equipment | $3,300 | - | - | - |
 | Office Lease / Furnishing | $10,000 | $36,000 | $36,000 | $36,000 |
 | Utilities (ref 4, 5, 6) | $500 | $7200 | $7200 | $7200 |
-| Marketing Services | - | $75,000 | $75,000 | $75,000 |
+| Marketing Services (ref 7) | - | $75,000 | $75,000 | $75,000 |
 | Content Creation (ref 8) | - | $240,000 | $240,000 | $240,000 |
-| Payroll Services | $25,000 | $25,000 | $25,000 | $25,000 |
+| Payroll and Accounting (ref 9, 10) | - | $91,000 | $91,000 | $91,000 |
 | | | | | |
 |TOTAL COST | $$$ | $$$ | $$$ | $$$ |
 | | | | | |
@@ -28,10 +28,12 @@
 (2) HOLD FOR EQUIPMENT COSTS<br>
 (3) "1413 South Washington Street, Papillion, NE 68046." *CREXi*, www.crexi.com/lease/properties/107699/nebraska-1413-south-washington-street/.<br>
 (4) "Business Rates." *OPPD*, www.oppd.com/business/business-rates/.<br>
-(5) "Business Phone and Internet Bundles." *Cox*, https://www.cox.com/business/offers/small-business-bundles.html.<br>
-(6) Bonner, Marianne. "What is the Average Cost of Small Business Insurance?" *The Balance Small Business*, https://www.thebalancesmb.com/what-is-the-average-cost-of-small-business-insurance-4172224.<br>
-(7) "Marketing Director Salaries." *glassdoor*, https://www.glassdoor.com/Salaries/marketing-director-salary-SRCH_KO0,18.htm.<br>
-(8) "The Necessary Costs of Content Creation." *FRACTL*, blog.frac.tl/cost-content-creation.<br>
+(5) "Business Phone and Internet Bundles." *Cox*, www.cox.com/business/offers/small-business-bundles.html.<br>
+(6) Bonner, Marianne. "What is the Average Cost of Small Business Insurance?" *The Balance Small Business*, www.thebalancesmb.com/what-is-the-average-cost-of-small-business-insurance-4172224.<br>
+(7) "Marketing Director Salaries." *glassdoor*, www.glassdoor.com/Salaries/marketing-director-salary-SRCH_KO0,18.htm.<br>
+(8) Geneivive, Mike. "The Necessary Costs of Content Creation." *FRACTL*, blog.frac.tl/cost-content-creation.<br>
+(9) "Accountant Salaries in Omaha, NE Area." *glassdoor*, www.glassdoor.com/Salaries/omaha-accountant-salary-SRCH_IL.0,5_IM640_KO6,16.htm.<br>
+(10) "The True Cost of Payroll Services." *Paycor*, www.paycor.com/resource-center/cost-of-payroll-services.<br>
 
 ### Notes on Cost Estimates
 
@@ -41,3 +43,4 @@
 (4) Utility costs were estimated using references 4, 5, and 6. The assumptions were: electricity $200 / month, water and sewer $150 / month, internet $200 / month, insurance $50 / month, and that trash service was included in the cost of the office space.<br>
 (5) Marketing Services were estimated by estimating a $60,000 salary for a marketing director and $15,000 in captial for using in SEO and Paid Advertising.<br>
 (6) Content Creation is the largest initial expense. The assumptions are based on hiring 6 independent contractors to assist in content creation, one for each of our initial courses, at a cost of $40,000 / year based on estimates from reference 7.<br>
+(7) Payroll and Accounting was estimated using refereces 9 and 10. A salary of $49,000 / year for an accountant and a cost of $42,000 / year in payroll services.
