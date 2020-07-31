@@ -34,6 +34,7 @@
 (8) Geneivive, Mike. "The Necessary Costs of Content Creation." *FRACTL*, blog.frac.tl/cost-content-creation.<br>
 (9) "Accountant Salaries in Omaha, NE Area." *glassdoor*, www.glassdoor.com/Salaries/omaha-accountant-salary-SRCH_IL.0,5_IM640_KO6,16.htm.<br>
 (10) "The True Cost of Payroll Services." *Paycor*, www.paycor.com/resource-center/cost-of-payroll-services.<br>
+(11) "ThinkPad." *Lenovo*, www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/c/thinkpadx?IPromoID=LEN921335#compareSection.<br>
 
 ### Notes on Cost Estimates
 
@@ -43,4 +44,5 @@
 (4) Utility costs were estimated using references 4, 5, and 6. The assumptions were: electricity $200 / month, water and sewer $150 / month, internet $200 / month, insurance $50 / month, and that trash service was included in the cost of the office space.<br>
 (5) Marketing Services were estimated by estimating a $60,000 salary for a marketing director and $15,000 in captial for using in SEO and Paid Advertising.<br>
 (6) Content Creation is the largest initial expense. The assumptions are based on hiring 6 independent contractors to assist in content creation, one for each of our initial courses, at a cost of $40,000 / year based on estimates from reference 7.<br>
-(7) Payroll and Accounting was estimated using refereces 9 and 10. A salary of $49,000 / year for an accountant and a cost of $42,000 / year in payroll services.
+(7) Payroll and Accounting is estimated using refereces 9 and 10. A salary of $49,000 / year for an accountant and a cost of $42,000 / year in payroll services.
+(8) Equipment costs are estimated by references ... Assumptions were that 10 business class laptops were needed at $1,000 per. 
