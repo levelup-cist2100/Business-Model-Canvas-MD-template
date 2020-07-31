@@ -61,10 +61,8 @@ Below is a mockup of LevelUp's Web Platform
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
-      How does it coes to establish and run the business?</p>
+      <p>LevelUp’s most important cost is content generation, as access to this content is the product that we are marketing. As such, the most expensive Key Resource for LevelUp is its intellectual property, consisting of its web platform and all of its original course content. This platform and content will be created, in large part, by a team of independent contractors. These independent contractors perform the most import, and expensive, Key Activities content creation and platform design.
+      </p>
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
