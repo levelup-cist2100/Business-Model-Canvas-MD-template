@@ -9,7 +9,7 @@
 | Office Lease / Furnishing | $10,000 | $36,000 | $36,000 | $36,000 |
 | Utilities (ref 4, 5, 6) | $500 | $7200 | $7200 | $7200 |
 | Marketing Services (ref 7) | - | $75,000 | $75,000 | $75,000 |
-| Content Creation (ref 8) | - | $240,000 | $160,000 | $80,000 |
+| Content Creation (ref 8) | - | $240,000 | $160,000 | $160,000 |
 | Payroll and Accounting (ref 9, 10) | - | $91,000 | $91,000 | $91,000 |
 | | | | | |
 |TOTAL COST | $34,700 | $457,200 |$377,200 |$377,200 |
