@@ -6,4 +6,4 @@
 * T3: Mark Kemnitz
 * T4: Lee Buhrmann
 * T5: Tommy Tucker
-* T6: (add name)
+* T6: Uladzimir Lahvinovich
