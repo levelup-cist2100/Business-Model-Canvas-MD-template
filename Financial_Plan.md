@@ -11,6 +11,7 @@
 | Marketing Services (ref 7) | - | $75,000 | $75,000 | $75,000 |
 | Content Creation (ref 8) | - | $240,000 | $160,000 | $160,000 |
 | Payroll and Accounting (ref 9, 10) | - | $91,000 | $91,000 | $91,000 |
+|Founding Member Salaries| - | - | - | - |
 | | | | | |
 |TOTAL COST | $34,700 | $457,200 |$377,200 |$377,200 |
 | | | | | |
@@ -46,3 +47,4 @@
 (5) Marketing Services were estimated by estimating a $60,000 salary for a marketing director and $15,000 in capital for using in SEO and Paid Advertising.<br>
 (6) Content Creation is the largest initial expense. The assumptions are based on hiring 6 independent contractors to assist in content creation, one for each of our initial courses, at a cost of $40,000 / year based on estimates from reference 7. The number of personnel in this category will lower by 2 the second year as a large bulk of content will be completed, leaving 4 for refinement of existing materials and research for further potential courses.<br>
 (7) Payroll and Accounting is estimated using references 9 and 10. A salary of $49,000 / year for an accountant and a cost of $42,000 / year in payroll services.<br>
+(8) The five founding members do not intend on taking a salary during the first three years of operation. After year three, the business will be evaluated and an appropriate salary with bonus will be awarded to each of the founding members.
